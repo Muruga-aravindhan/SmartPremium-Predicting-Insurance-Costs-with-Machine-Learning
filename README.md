@@ -39,6 +39,13 @@ R² Score
 Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
 
+Using MLflow
+
+Reproducibility – track parameters, metrics, and datasets
+Versioning – manage multiple versions of the model easily
+Flexibility – The Streamlit app can always load the latest stable model
+Transparency – complete experiment history is stored and viewable
+
 Future Improvements
 
 Add support for multiple models in the app (model selection dropdown)
