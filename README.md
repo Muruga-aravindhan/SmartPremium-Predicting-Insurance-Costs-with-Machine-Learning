@@ -1,11 +1,6 @@
 # SmartPremium-Predicting-Insurance-Costs-with-Machine-Learning
 A machine learning project for predicting insurance premium costs using XGBoost, Random Forest, and Gradient Boosting models. Includes data preprocessing, feature engineering, model training, evaluation, and a Streamlit app for real-time premium prediction.
 
-# SmartPremium – Predicting Insurance Costs with Machine Learning 
-
-This project predicts **insurance premium amounts** using machine learning techniques.  
-It leverages **XGBoost, Random Forest, and Gradient Boosting** models and provides a **Streamlit web app** for real-time premium prediction.  
-
 ---
 
 ## Project Overview
