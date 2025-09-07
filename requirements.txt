@@ -1,0 +1,15 @@
+streamlit
+pandas
+scikit-learn
+xgboost
+MLflow
+
+streamlit → for the web app
+
+pandas → for DataFrame handling
+
+scikit-learn → for preprocessing & encoders
+
+xgboost → trained model
+
+Mlflow - machine learning lifecycle platform 
